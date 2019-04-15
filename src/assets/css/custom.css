@@ -1,0 +1,59 @@
+.bgColorBlue {
+    background-color: dimgray;
+}
+
+.bgColorGray {
+    background-color: white;
+}
+
+.grow {
+    transition: al .2s ease-in-out;
+}
+
+.grow:hover {
+    transform: scale(1.1);
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.headerMenu {
+    font-size: 20px;
+    color: white;
+}
+
+.mrgn-top-2prc {
+    margin-top: 2%;
+}
+
+.height-291 {
+    height: 291px;
+}
+
+.mrg-btm-18 {
+    margin-bottom: 18px
+}
+
+.secondListcss {
+    text-align: center;
+    line-height: 291px;
+}
+
+.backBtn {
+    float: left;
+    width: 154px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 3px 5px #888888;
+    margin: 15px;
+}
+
+.NextBtn {
+    float: right;
+    width: 154px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 3px 5px #888888;
+    margin: 15px;
+}
